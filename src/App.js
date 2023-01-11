@@ -1,7 +1,7 @@
 import React from 'react';
 import Calculator from './components/Calculator';
 
-class MathApp extends React.PureComponent {
+class App extends React.PureComponent {
   render() {
     return (
       <div>
@@ -11,4 +11,4 @@ class MathApp extends React.PureComponent {
   }
 }
 
-export default MathApp;
+export default App;
