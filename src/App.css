@@ -38,7 +38,7 @@ body {
 
 .wrapper {
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: repeat(4, auto);
   grid-template-rows: repeat(5, 6vw);
 }
 
