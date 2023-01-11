@@ -33,7 +33,7 @@ body {
   background-color: var(--darkgrey);
   padding: 1.5vw;
   color: white;
-  font-size: 1.5rem;
+  font-size: 3vw;
 }
 
 .wrapper {
@@ -46,7 +46,7 @@ button {
   cursor: pointer;
   border: 1px solid var(--lightgrey);
   background-color: var(--grey);
-  font-size: 1.1rem;
+  font-size: 1.7vw;
 }
 
 button:hover {
