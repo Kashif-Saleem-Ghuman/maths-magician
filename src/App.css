@@ -15,10 +15,10 @@
 
 body {
   height: 100vh;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
 }
 
 .container {
@@ -63,4 +63,80 @@ button:hover {
 
 .operators:hover {
   background-color: var(--light-orange);
+}
+
+.Nav-bar {
+  background-color: rgb(50, 56, 75);
+}
+
+.Nav-bar ul {
+  display: flex;
+  list-style: none;
+  justify-content: flex-end;
+  gap: 4vw;
+  padding: 2vw;
+}
+
+.Link {
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 0.5vw;
+  border-radius: 0.5vw;
+}
+
+.Link :hover {
+  color: black;
+}
+
+h1 {
+  display: flex;
+  padding: 2vw;
+}
+
+h2 {
+  display: flex;
+  padding: 2vw;
+}
+
+.paragraph {
+  display: flex;
+  justify-content: center;
+  padding: 2vw;
+}
+
+.paragraph2 {
+  display: flex;
+  justify-content: center;
+  padding: 0 2vw;
+}
+
+footer {
+  display: flex;
+  background-color: rgb(50, 56, 75);
+  padding: 1vw;
+  color: white;
+  font-size: larger;
+  justify-content: center;
+  align-items: baseline;
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  gap: 0.5vw;
+}
+
+.footer-text {
+  color: white;
+  text-decoration: none;
+  background-color: black;
+  padding: 1vw;
+  border-radius: 0.5vw;
+}
+
+.github {
+  color: white;
+  text-decoration: none;
+  background-color: black;
+  padding: 1vw;
+  border-radius: 0.5vw;
 }
