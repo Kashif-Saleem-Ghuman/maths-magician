@@ -141,10 +141,6 @@ Clone this repository to your desired folder:
 
 - Make sure to intall all dependencies using npm install.
 
-
---->
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👤**Authors** <a name="authors"></a>
