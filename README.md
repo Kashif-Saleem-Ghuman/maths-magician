@@ -14,6 +14,9 @@
 - [� Table of Contents](#-table-of-contents)
 - [📖 Calculator App](#-add-to-list-app)
   - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+      - [🔭 Future Features ](#-future-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -34,11 +37,55 @@ Make additions, subractions, multiplications, divisions using this app.
 
 
 ## 🛠 Built With <a name="built-with"></a>
-    HTML
-    CSS
-    React
-    Javascript
-    Webpack
+   
+ ### Tech Stack <a name="tech-stack"></a>
+- HTML
+- CSS
+- JavaScript
+- React
+
+<details>
+  <summary>Languages</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+    <li>React</li>
+  </ul>
+</details>
+<details>
+  <summary>Bundler</summary>
+  <ul>
+    <li>React</li>
+  </ul>
+</details>
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>Github</li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Use calculator**
+- **Use calculator to make calculations(Addition, Subtraction, Multiplication, Division and Percentage)**
+- **Access Home page**
+- **Access Calculator page**
+- **Access Quote page**
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Calculate sin,cos and tan**
+- [ ] **Calculate square root and to the power**
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
