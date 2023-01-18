@@ -3,6 +3,7 @@
 <div align="center">
 
   <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
+  
   <br/>
 
   <h3><b>Microverse</b></h3>
@@ -22,6 +23,7 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
   - [👤**Authors** ](#authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -153,6 +155,12 @@ Clone this repository to your desired folder:
 - Twitter: [@twitterhandle](https://twitter.com/Kashif14Saleem)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kashif-saleem-45ba95215/)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Implement mathematical operations such as addition, subtration, multiplication and division..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
