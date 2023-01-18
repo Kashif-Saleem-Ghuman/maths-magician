@@ -2,7 +2,8 @@
 
 <div align="center">
 
-  <img src="images/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
+  
   <br/>
 
   <h3><b>Microverse</b></h3>
@@ -14,12 +15,14 @@
 - [� Table of Contents](#-table-of-contents)
 - [📖 Calculator App](#-add-to-list-app)
   - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+      - [🔭 Future Features ](#-future-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
   - [👤**Authors** ](#authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -35,11 +38,55 @@ Make additions, subractions, multiplications, divisions using this app.
 
 
 ## 🛠 Built With <a name="built-with"></a>
-    HTML
-    CSS
-    React
-    Javascript
-    Webpack
+   
+ ### Tech Stack <a name="tech-stack"></a>
+- HTML
+- CSS
+- JavaScript
+- React
+
+<details>
+  <summary>Languages</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+    <li>React</li>
+  </ul>
+</details>
+<details>
+  <summary>Bundler</summary>
+  <ul>
+    <li>React</li>
+  </ul>
+</details>
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>Github</li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Use calculator**
+- **Use calculator to make calculations(Addition, Subtraction, Multiplication, Division and Percentage)**
+- **Access Home page**
+- **Access Calculator page**
+- **Access Quote page**
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Calculate sin,cos and tan**
+- [ ] **Calculate square root and to the power**
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -94,10 +141,6 @@ Clone this repository to your desired folder:
 
 - Make sure to intall all dependencies using npm install.
 
-
---->
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👤**Authors** <a name="authors"></a>
@@ -107,12 +150,6 @@ Clone this repository to your desired folder:
 - Twitter: [@twitterhandle](https://twitter.com/Kashif14Saleem)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kashif-saleem-45ba95215/)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- Implement mathematical operations such as addition, subtration, multiplication and division..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

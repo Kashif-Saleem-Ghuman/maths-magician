@@ -15,14 +15,7 @@
 
 body {
   height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.container {
-  width: 60vw;
+  background-color: #f3f1f5;
 }
 
 .result {
@@ -34,6 +27,20 @@ body {
   padding: 1.5vw;
   color: white;
   font-size: 3vw;
+}
+
+.calc-head-wrapper {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.container {
+  margin-top: 1.8vw;
+  width: 50vw;
+  height: -21vw;
+  justify-self: end;
+  margin-right: 2vw;
+  box-shadow: 10px 10px 5px 0 rgb(0 0 0 / 75%);
 }
 
 .wrapper {
@@ -63,4 +70,145 @@ button:hover {
 
 .operators:hover {
   background-color: var(--light-orange);
+}
+
+.Nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  background-color: rgb(57, 70, 84);
+}
+
+.Nav-bar ul {
+  display: flex;
+  list-style: none;
+  justify-content: flex-end;
+  gap: 1vw;
+  padding: 2vw;
+  align-items: center;
+  letter-spacing: 0.06rem;
+}
+
+.vertical-line {
+  border-left: 0.3vw solid white;
+  height: 3vw;
+}
+
+.Link {
+  text-decoration: underline;
+  color: white;
+  padding: 0.5vw;
+  border-radius: 0.5vw;
+  transition: all ease-in-out 0.5s;
+  font-size: 2vw;
+}
+
+.Link:hover {
+  color: black;
+  font-size: 1.25rem;
+  background-color: white;
+}
+
+h1 {
+  display: flex;
+  padding: 2vw;
+  color: white;
+}
+
+h2 {
+  display: flex;
+  padding: 2vw;
+  font-size: 4vw;
+}
+
+.paragraph {
+  display: flex;
+  justify-content: center;
+  padding: 2vw;
+}
+
+.paragraph2 {
+  display: flex;
+  justify-content: center;
+  padding: 0 2vw;
+}
+
+footer {
+  display: flex;
+  background-color: rgb(57, 70, 84);
+  padding: 0.8vw;
+  color: white;
+  font-size: larger;
+  justify-content: center;
+  align-items: baseline;
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  gap: 0.5vw;
+}
+
+.footer-text {
+  color: white;
+  text-decoration: none;
+  background-color: black;
+  padding: 0.5vw;
+  border-radius: 0.5vw;
+  font-size: 0.9rem;
+  letter-spacing: 0.09rem;
+}
+
+.github {
+  color: white;
+  background-color: rgb(0, 0, 0);
+  padding: 0.5vw;
+  border-radius: 0.5vw;
+  font-size: 0.9rem;
+  letter-spacing: 0.09rem;
+  text-decoration: underline;
+}
+
+.calc-heading {
+  font-size: 4vw;
+  margin: 0;
+  position: relative;
+  top: -25%;
+}
+
+.calc-p {
+  margin: 3vw 3vw;
+  font-size: 4vw;
+  background-color: white;
+  padding: 2vw;
+  border-radius: 1rem;
+  box-shadow: 10px 10px 5px 0 rgb(0 0 0 / 75%);
+  font-weight: 700;
+}
+
+.quotes-wrapper {
+  width: 90%;
+  background-color: white;
+  box-shadow: 10px 10px 5px 0 rgb(0 0 0 / 75%);
+  border-radius: 1rem;
+  margin: auto auto;
+  color: black;
+  align-items: center;
+  position: relative;
+  margin-top: 5vw;
+  padding: 5vw;
+}
+
+.quote-h1 {
+  color: black;
+  text-align: center;
+  font-size: 3vw;
+}
+
+.quotes-span {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 5vw;
+  font-size: 1.5rem;
+  font-style: italic;
+  margin-left: auto;
+  margin-top: 1rem;
 }
