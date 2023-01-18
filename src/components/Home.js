@@ -3,11 +3,6 @@ import React from 'react';
 export default function Home() {
   return (
     <>
-      <header>
-        <h1>
-          Math Magicians
-        </h1>
-      </header>
       <main>
         <h2>Welcome to Our page!</h2>
         <p className="paragraph">

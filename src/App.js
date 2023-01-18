@@ -8,13 +8,16 @@ export default function App() {
   return (
     <>
       <nav className="Nav-bar">
+        <h1 className="calc-heading">Maths Magician</h1>
         <ul>
           <li>
             <Link className="Link" to="/home">Home</Link>
           </li>
+          <div className="vertical-line" />
           <li>
             <Link className="Link" to="/calculator">Calculator</Link>
           </li>
+          <div className="vertical-line" />
           <li>
             <Link className="Link" to="/quotes">Quotes</Link>
           </li>
