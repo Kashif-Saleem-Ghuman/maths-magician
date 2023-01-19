@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders when there is quote 1`] = `
+Array [
+  <section
+    className="quotes-wrapper"
+  >
+    <h1
+      className="quote-h1"
+    >
+      "Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."
+    </h1>
+    <span
+      className="quotes-span"
+    >
+      - William Paul Thurston
+    </span>
+  </section>,
+  <footer>
+    <span
+      className="footer-text"
+    >
+      Created by Kashif Saleem
+    </span>
+    <a
+      className="github"
+      href="https://github.com/Kashif-Saleem-Ghuman"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Github
+    </a>
+  </footer>,
+]
+`;
