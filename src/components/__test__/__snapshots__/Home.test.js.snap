@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders when the 1`] = `
+Array [
+  <main>
+    <h2>
+      Welcome to Our page!
+    </h2>
+    <p
+      className="paragraph"
+    >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas suscipit deserunt commodi iusto quasi voluptatem incidunt modi perspiciatis ipsam dolorum at ut pariatur sunt veniam saepe, eveniet quis consequuntur fuga assumenda magni amet cum Iusto enim fugiat provident aliquam nobis laborum aperiam similique aspernatur obcaecati sunt asperiores quidem totam numquam at hic fuga temporibus Distinctio commodi nostrum laudantium accusantium quam.
+    </p>
+    <p
+      className="paragraph2"
+    >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas suscipit deserunt commodi iusto quasi voluptatem incidunt modi perspiciatis ipsam dolorum at ut pariatur sunt veniam saepe, eveniet quis consequuntur fuga assumenda magni amet cum Iusto enim fugiat provident aliquam nobis laborum aperiam similique aspernatur obcaecati sunt.
+    </p>
+  </main>,
+  <footer>
+    <span
+      className="footer-text"
+    >
+      Created by Kashif Saleem
+    </span>
+    <a
+      className="github"
+      href="https://github.com/Kashif-Saleem-Ghuman"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Github
+    </a>
+  </footer>,
+]
+`;
+
+exports[`renders when the home is updated 1`] = `
+Array [
+  <main>
+    <h2>
+      Welcome to Our page!
+    </h2>
+    <p
+      className="paragraph"
+    >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas suscipit deserunt commodi iusto quasi voluptatem incidunt modi perspiciatis ipsam dolorum at ut pariatur sunt veniam saepe, eveniet quis consequuntur fuga assumenda magni amet cum Iusto enim fugiat provident aliquam nobis laborum aperiam similique aspernatur obcaecati sunt asperiores quidem totam numquam at hic fuga temporibus Distinctio commodi nostrum laudantium accusantium quam.
+    </p>
+    <p
+      className="paragraph2"
+    >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas suscipit deserunt commodi iusto quasi voluptatem incidunt modi perspiciatis ipsam dolorum at ut pariatur sunt veniam saepe, eveniet quis consequuntur fuga assumenda magni amet cum Iusto enim fugiat provident aliquam nobis laborum aperiam similique aspernatur obcaecati sunt.
+    </p>
+  </main>,
+  <footer>
+    <span
+      className="footer-text"
+    >
+      Created by Kashif Saleem
+    </span>
+    <a
+      className="github"
+      href="https://github.com/Kashif-Saleem-Ghuman"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Github
+    </a>
+  </footer>,
+]
+`;
+
+exports[`renders when there is quote 1`] = `
+Array [
+  <main>
+    <h2>
+      Welcome to Our page!
+    </h2>
+    <p
+      className="paragraph"
+    >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas suscipit deserunt commodi iusto quasi voluptatem incidunt modi perspiciatis ipsam dolorum at ut pariatur sunt veniam saepe, eveniet quis consequuntur fuga assumenda magni amet cum Iusto enim fugiat provident aliquam nobis laborum aperiam similique aspernatur obcaecati sunt asperiores quidem totam numquam at hic fuga temporibus Distinctio commodi nostrum laudantium accusantium quam.
+    </p>
+    <p
+      className="paragraph2"
+    >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas suscipit deserunt commodi iusto quasi voluptatem incidunt modi perspiciatis ipsam dolorum at ut pariatur sunt veniam saepe, eveniet quis consequuntur fuga assumenda magni amet cum Iusto enim fugiat provident aliquam nobis laborum aperiam similique aspernatur obcaecati sunt.
+    </p>
+  </main>,
+  <footer>
+    <span
+      className="footer-text"
+    >
+      Created by Kashif Saleem
+    </span>
+    <a
+      className="github"
+      href="https://github.com/Kashif-Saleem-Ghuman"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Github
+    </a>
+  </footer>,
+]
+`;
