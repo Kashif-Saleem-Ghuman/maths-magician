@@ -11,7 +11,7 @@ export default function App() {
         <h1 className="calc-heading">Maths Magician</h1>
         <ul>
           <li>
-            <Link className="Link" to="/home">Home</Link>
+            <Link className="Link" to="/">Home</Link>
           </li>
           <div className="vertical-line" />
           <li>
@@ -24,7 +24,7 @@ export default function App() {
         </ul>
       </nav>
       <Routes>
-        <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/calculator" element={<Calculator />} />
         <Route path="/quotes" element={<Quotes />} />
       </Routes>
