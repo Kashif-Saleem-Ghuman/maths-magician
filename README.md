@@ -94,7 +94,7 @@ Make additions, subractions, multiplications, divisions using this app.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-none
+https://math-magician-kashif.netlify.app/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
